@@ -13,10 +13,10 @@ A self-healing front-end layered on top of g++. It compiles code, explains error
 ## Files uploaded
 
 - Readme.md: this file, with the title, student details and a description of every upload.
-- 1_Report/Project_Report.pdf: full project report (PDF).
-- 1_Report/Project_Report.docx: full project report (editable Word version).
+- Project_Report.pdf: full project report (PDF).
+- Project_Report.docx: full project report (editable Word version).
 - 2_Source_Code.zip: complete source code (folder green_self_healing_compiler with src, tests, demo, tools, docs and requirements.txt). Zipped because it has 190+ files.
-- 3_Output_Screenshots/: output screenshots of Demos A to F (error explanation, security hardening, optimisation, multi-file project, ZIP-in/ZIP-out, unsafe-input blocking), test-suite and benchmark evidence, and the figures used in the report. INDEX.txt describes each image.
+- 3_Output_Screenshots.zip: output screenshots of Demos A to F (error explanation, security hardening, optimisation, multi-file project, ZIP-in/ZIP-out, unsafe-input blocking), test-suite and benchmark evidence, and the figures used in the report. INDEX.txt inside describes each image.
 - Screen recording (Google Drive, anyone with an NITW mail can access): https://drive.google.com/file/d/11-G4vp6xe5jKfWH-JEmUcL0jN5iqk9Yb/view?usp=sharing
 
 ## How to run

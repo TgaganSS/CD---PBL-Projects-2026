@@ -10,6 +10,8 @@
 
 A self-healing front-end layered on top of g++. It compiles code, explains errors in plain English, classifies them (rules + a small ML model), runs a CWE-labelled security analysis, and repairs the code with a multi-agent pipeline. A fix is kept only if it is verified: the program still compiles and the reported problem is gone. Unsafe input is blocked by a safety gate before any compiler runs.
 
+previously "Green Self Healing Compiler"
+
 ## Files uploaded
 
 - Readme.md: this file, with the title, student details and a description of every upload.

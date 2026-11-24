@@ -1,4 +1,5 @@
-# SentinelCC: Verified Multi-Agent Code Repair
+# SentinelCC: A Verified Multi-Agent Framework for Automated Error Repair and Security Hardening of Multi-Language Codebases
+Green Self Healing Compiler
 
 - Student: Gagan Sai Sathvik Tottanapudi
 - Roll Number: 25CSB1A36
